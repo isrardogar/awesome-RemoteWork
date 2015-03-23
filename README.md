@@ -38,6 +38,7 @@ Awesome Remote Work
 - [http://www.remoteyear.com/jobs/](http://www.remoteyear.com/jobs/), job board of RemoteYear program.
 - [http://nomadjobs.io/](http://nomadjobs.io/)
 - [http://remotehackers.com/](http://remotehackers.com/)
+- [https://jobsremotely.com/](https://jobsRemotely.com/)
 - [http://jobmote.com/](http://jobmote.com/)
 - [http://workingnomads.co/](http://workingnomads.co/)
 - [http://www.teamed.io/](http://www.teamed.io/)
